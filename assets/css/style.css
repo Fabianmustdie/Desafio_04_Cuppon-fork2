@@ -1,0 +1,29 @@
+* { /* font family for al page */
+  font-family: "Roboto"; 
+}
+.navbar { /* changed color for navbar */
+  background-color: #28a745;
+}
+.navbar-brand img { /* navbar logo */
+  width: 100px;
+}
+.card-title { /* font weight for cards */
+  font-weight: 500;
+}
+.card-text { /* font weight for cards */
+  font-weight: 300;
+}
+.price { /* style for the price text in cards */
+  display: flex;
+  justify-content: flex-end;
+}
+.container-fluid { /* section background color */
+  background-color: #28a745;
+}
+.d-flex img { /* footer img */
+  width: 100px;
+}
+.button { 
+  display: flex;
+  justify-content: center;
+}
