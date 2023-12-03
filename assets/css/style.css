@@ -2,7 +2,7 @@
   font-family: "Roboto"; 
 }
 .navbar { /* changed color for navbar */
-  background-color: #28a745;
+  background-color: #02350e;
 }
 .navbar-brand img { /* navbar logo */
   width: 100px;
@@ -18,7 +18,7 @@
   justify-content: flex-end;
 }
 .container-fluid { /* section background color */
-  background-color: #28a745;
+  background-color: #02350e;
 }
 .d-flex img { /* footer img */
   width: 100px;
